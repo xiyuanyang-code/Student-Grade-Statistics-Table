@@ -6,14 +6,13 @@ This is an implementation of a student grade statistics table based on structure
 
 ## File Structure
 
-- .idea
-- cmake-build-debug
 - CMakeLists.txt
 - main.cpp
 - main.exe
 - thestudent.h
 - README.md
 - LICENSE
+- .gitignore
 
 ## Usage
 
