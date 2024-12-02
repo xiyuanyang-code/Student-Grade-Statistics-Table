@@ -1,0 +1,3 @@
+C:/Users/29349/Desktop/DATA/CODE_for_clion/cmake-build-debug/CMakeFiles/CODE_for_clion.dir
+C:/Users/29349/Desktop/DATA/CODE_for_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/29349/Desktop/DATA/CODE_for_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
