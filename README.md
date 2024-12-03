@@ -19,3 +19,13 @@ This is an implementation of a student grade statistics table based on structure
 run the `main.exe`.
 
 All the source code for the program has been placed in the `main.cpp` and `thestudent.h` file.
+
+## Issues needed to be addressed
+
+- This program involves a dozen or so custom functions and includes over 300 lines of code, with significant redundancy issues., which needs to be simplified.
+- This program is implemented using structures and does not yet apply object-oriented programming concepts. It still requires further optimization.
+- This is a small project that I independently attempted to complete while self-studying C++. It is currently only the initial version. I commit to improving and optimizing the program after gaining more advanced knowledge, and to implement additional features.
+
+## Advertisement
+
+My personal Blog  :  [Xiyuan Yang's Blog](https://xiyuanyang-code.github.io/)
